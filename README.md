@@ -1,4 +1,4 @@
-<img width="220" src=" " alt="aesthetic visual" />
+<img width="220" src="https://github.com/dsyaliddell/dsyaliddell/blob/main/github_art.png" alt="aesthetic visual" />
 
 
 # Hii ! 🦕
